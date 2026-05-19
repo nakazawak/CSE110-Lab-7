@@ -1,8 +1,8 @@
-#Members
+# Members
 
 Koji Nakazawa
 
-#Check Your Understanding
+# Check Your Understanding
 
 1. For my recipe project development pipeline, I would run my automated tests in within a Github action that runs whenever code is pushed. This way, whenever somebody commits changes and pushes code, they will get immediate feedback on the behavior of their code and can spot any bugs that needs to be addressed. Manually running is a bad idea since developers may forget to to run the tests and running all of them after development is complete will result in unnoticed bugs piling up upon each other and will lead to a very difficult time debugging.
 
